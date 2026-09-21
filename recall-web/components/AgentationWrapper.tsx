@@ -15,6 +15,11 @@ export default function AgentationWrapper() {
     setMounted(true);
   }, []);
 
+  // Only render Agentation toolbar during local development
+  if (process.env.NODE_ENV !== 'development') {
+    return null;
+  }
+
   if (!mounted) return null;
 
   return <Agentation endpoint="http://localhost:4747" />;
