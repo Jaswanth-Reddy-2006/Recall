@@ -42,7 +42,7 @@ export default function Footer() {
           {/* Right Social Icons: GitHub repo, LinkedIn post, YouTube video (No Twitter) */}
           <div className="flex items-center gap-4 text-slate-800">
             <a
-              href="https://github.com/jaswanthreddy"
+              href="https://github.com/Jaswanth-Reddy-2006/Recall"
               target="_blank"
               rel="noreferrer"
               title="GitHub Repository"

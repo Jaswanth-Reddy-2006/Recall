@@ -7,7 +7,13 @@ export const metadata: Metadata = {
   description:
     'Capture anything—screenshots, links, notes, or calls. Recall understands, connects the dots, and turns them into actionable insights.',
   icons: {
-    icon: '/favicon.ico',
+    icon: [
+      { url: '/icon.svg', type: 'image/svg+xml' },
+      { url: '/icon.png', type: 'image/png' },
+      { url: '/favicon.ico' },
+    ],
+    shortcut: '/icon.svg',
+    apple: '/apple-touch-icon.png',
   },
 };
 

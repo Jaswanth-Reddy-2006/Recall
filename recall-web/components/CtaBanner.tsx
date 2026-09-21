@@ -27,7 +27,7 @@ export default function CtaBanner() {
         {/* Action Buttons: GitHub Repo + Watch Demo */}
         <div className="flex flex-wrap items-center justify-center gap-4 pt-2">
           <a
-            href="https://github.com"
+            href="https://github.com/Jaswanth-Reddy-2006/Recall"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2.5 px-7 py-3 rounded-full text-xs sm:text-sm font-bold text-white bg-slate-900 hover:bg-slate-800 shadow-md hover:shadow-lg transition-all"
