@@ -7,29 +7,12 @@ import SparkleNavbar from './SparkleNavbar';
 
 export function RecallLogo({ size = 32 }: { size?: number }) {
   return (
-    <svg
-      width={size}
-      height={size * 0.65}
-      viewBox="0 0 46 30"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-      className="shrink-0"
-    >
-      <defs>
-        <linearGradient id="recallInfinityGrad" x1="2" y1="15" x2="44" y2="15" gradientUnits="userSpaceOnUse">
-          <stop offset="0%" stopColor="#E6007A" />
-          <stop offset="48%" stopColor="#8B5CF6" />
-          <stop offset="100%" stopColor="#3B5BDB" />
-        </linearGradient>
-      </defs>
-      <path
-        d="M13.5 6C8.8 6 5 9.8 5 14.5C5 19.2 8.8 23 13.5 23C19 23 23 14.5 23 14.5C23 14.5 27 6 32.5 6C37.2 6 41 9.8 41 14.5C41 19.2 37.2 23 32.5 23C27 23 23 14.5 23 14.5C23 14.5 19 6 13.5 6Z"
-        stroke="url(#recallInfinityGrad)"
-        strokeWidth="5.2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-    </svg>
+    <img
+      src="/logo.png"
+      alt="Recall Logo"
+      style={{ width: `${size}px`, height: `${size * 0.58}px` }}
+      className="shrink-0 object-contain"
+    />
   );
 }
 
