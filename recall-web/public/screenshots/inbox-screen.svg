@@ -1,0 +1,175 @@
+<svg width="420" height="860" viewBox="0 0 420 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Device Outer -->
+  <rect x="5" y="5" width="410" height="850" rx="44" fill="#11183D" stroke="#DCE7F2" stroke-width="4"/>
+  <rect x="12" y="12" width="396" height="836" rx="38" fill="#EFFAFD"/>
+
+  <!-- Notch -->
+  <rect x="145" y="20" width="130" height="26" rx="13" fill="#11183D"/>
+  
+  <!-- Status Bar -->
+  <text x="36" y="38" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="13" font-weight="700">9:41</text>
+  <rect x="364" y="28" width="20" height="10" rx="3" fill="none" stroke="#11183D" stroke-width="1.5"/>
+  <rect x="366" y="30" width="14" height="6" rx="1.5" fill="#4A8BDF"/>
+
+  <!-- Header -->
+  <g transform="translate(28, 62)">
+    <text x="0" y="22" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="22" font-weight="900">Action Inbox</text>
+    <text x="0" y="38" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12">4 items awaiting your execution</text>
+
+    <!-- Filter/Sort icon -->
+    <rect x="328" y="4" width="36" height="36" rx="10" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    <path d="M338 16H354M341 22H351M344 28H348" stroke="#4A8BDF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Filter Pills -->
+  <g transform="translate(28, 118)">
+    <!-- Pill 1: All -->
+    <rect x="0" y="0" width="62" height="32" rx="16" fill="#4A8BDF"/>
+    <text x="31" y="20" fill="#FFFFFF" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">All (4)</text>
+
+    <!-- Pill 2: Urgent -->
+    <rect x="70" y="0" width="84" height="32" rx="16" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    <text x="112" y="20" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Due Soon</text>
+
+    <!-- Pill 3: Campus -->
+    <rect x="162" y="0" width="76" height="32" rx="16" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    <text x="200" y="20" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="500" text-anchor="middle">Campus</text>
+
+    <!-- Pill 4: Project -->
+    <rect x="246" y="0" width="72" height="32" rx="16" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    <text x="282" y="20" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="500" text-anchor="middle">Sprint</text>
+  </g>
+
+  <!-- Group Title: Due Tomorrow -->
+  <text x="28" y="180" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="800" text-transform="uppercase">Tomorrow — 22 Sep 2026</text>
+
+  <!-- Task 1: Resume Submission -->
+  <g transform="translate(28, 194)">
+    <rect x="0" y="0" width="364" height="96" rx="14" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="1.8"/>
+    
+    <circle cx="26" cy="34" r="12" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="2"/>
+    <text x="48" y="30" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="14" font-weight="800">Submit TechCorp Placement Resume</text>
+    <text x="48" y="48" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12">Portal link closes sharp at 09:00 AM</text>
+
+    <g transform="translate(48, 60)">
+      <rect x="0" y="0" width="62" height="20" rx="4" fill="#EFFAFD"/>
+      <text x="31" y="14" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">09:00 AM</text>
+
+      <rect x="70" y="0" width="102" height="20" rx="4" fill="#EFF7FD"/>
+      <text x="121" y="14" fill="#4A8BDF" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">From Screenshot</text>
+    </g>
+
+    <rect x="316" y="14" width="34" height="20" rx="4" fill="#EFFAFD" stroke="#DCE7F2" stroke-width="1"/>
+    <text x="333" y="28" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="9" font-weight="800" text-anchor="middle">HIGH</text>
+  </g>
+
+  <!-- Task 2: Pre-Placement Talk -->
+  <g transform="translate(28, 302)">
+    <rect x="0" y="0" width="364" height="88" rx="14" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    
+    <circle cx="26" cy="34" r="12" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="2"/>
+    <text x="48" y="30" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="14" font-weight="800">Attend Pre-Placement Talk</text>
+    <text x="48" y="48" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12">Main Auditorium 3 • Bring college ID</text>
+
+    <g transform="translate(48, 58)">
+      <rect x="0" y="0" width="62" height="20" rx="4" fill="#EFFAFD"/>
+      <text x="31" y="14" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">10:00 AM</text>
+
+      <rect x="70" y="0" width="80" height="20" rx="4" fill="#EFF7FD"/>
+      <text x="110" y="14" fill="#4A8BDF" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Mandatory</text>
+    </g>
+  </g>
+
+  <!-- Group Title: Later this Week -->
+  <text x="28" y="416" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="800" text-transform="uppercase">Later This Week</text>
+
+  <!-- Task 3: DBMS Lab -->
+  <g transform="translate(28, 430)">
+    <rect x="0" y="0" width="364" height="88" rx="14" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    
+    <circle cx="26" cy="34" r="12" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="2"/>
+    <text x="48" y="30" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="14" font-weight="800">Complete DBMS B+ Tree Normalization</text>
+    <text x="48" y="48" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12">Submit report on college portal</text>
+
+    <g transform="translate(48, 58)">
+      <rect x="0" y="0" width="84" height="20" rx="4" fill="#EFFAFD"/>
+      <text x="42" y="14" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Sep 24, 11:59 PM</text>
+
+      <rect x="92" y="0" width="70" height="20" rx="4" fill="#EFF7FD"/>
+      <text x="127" y="14" fill="#4A8BDF" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Academic</text>
+    </g>
+  </g>
+
+  <!-- Task 4: Follow up with Sarah -->
+  <g transform="translate(28, 530)">
+    <rect x="0" y="0" width="364" height="88" rx="14" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    
+    <circle cx="26" cy="34" r="12" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="2"/>
+    <text x="48" y="30" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="14" font-weight="800">Review Redis caching schema with Sarah</text>
+    <text x="48" y="48" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="12">From yesterday's call transcript</text>
+
+    <g transform="translate(48, 58)">
+      <rect x="0" y="0" width="84" height="20" rx="4" fill="#EFFAFD"/>
+      <text x="42" y="14" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Sep 25, 03:00 PM</text>
+
+      <rect x="92" y="0" width="76" height="20" rx="4" fill="#EFF7FD"/>
+      <text x="130" y="14" fill="#4A8BDF" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Call Followup</text>
+    </g>
+  </g>
+
+  <!-- Group Title: Completed -->
+  <text x="28" y="642" fill="#7B8799" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="800" text-transform="uppercase">Completed Today (1)</text>
+
+  <!-- Completed Task -->
+  <g transform="translate(28, 656)" opacity="0.65">
+    <rect x="0" y="0" width="364" height="66" rx="14" fill="#EFF7FD" stroke="#DCE7F2" stroke-width="1"/>
+    
+    <circle cx="26" cy="33" r="12" fill="#4A8BDF"/>
+    <path d="M22 33L25 36L31 30" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="48" y="30" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="13" font-weight="600" text-decoration="line-through">Print 2 hard copies of updated resume</text>
+    <text x="48" y="46" fill="#7B8799" font-family="-apple-system, system-ui, sans-serif" font-size="11">Completed at 08:30 AM</text>
+  </g>
+
+  <!-- Bottom Navigation Bar -->
+  <g transform="translate(12, 756)">
+    <rect x="0" y="0" width="396" height="74" rx="0" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+
+    <!-- Tab 1: Home -->
+    <g transform="translate(30, 14)">
+      <path d="M12 16L18 10L24 16V22H12V16Z" stroke="#7B8799" stroke-width="1.8" fill="none"/>
+      <text x="18" y="34" fill="#7B8799" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="500" text-anchor="middle">Home</text>
+    </g>
+
+    <!-- Tab 2: Search -->
+    <g transform="translate(112, 14)">
+      <circle cx="18" cy="14" r="6" stroke="#7B8799" stroke-width="1.8" fill="none"/>
+      <line x1="22" y1="19" x2="26" y2="23" stroke="#7B8799" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="18" y="34" fill="#7B8799" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="500" text-anchor="middle">Search</text>
+    </g>
+
+    <!-- Tab 3: Action Inbox (Active) -->
+    <g transform="translate(194, 14)">
+      <circle cx="18" cy="12" r="14" fill="#EFFAFD"/>
+      <rect x="8" y="8" width="18" height="14" rx="3" fill="none" stroke="#4A8BDF" stroke-width="1.8"/>
+      <path d="M8 12L17 17L26 12" stroke="#4A8BDF" stroke-width="1.5"/>
+      <text x="18" y="34" fill="#4A8BDF" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="700" text-anchor="middle">Inbox</text>
+    </g>
+
+    <!-- Tab 4: Graph -->
+    <g transform="translate(276, 14)">
+      <circle cx="12" cy="10" r="3.5" fill="#7B8799"/>
+      <circle cx="24" cy="12" r="3.5" fill="#7B8799"/>
+      <circle cx="16" cy="22" r="3.5" fill="#7B8799"/>
+      <text x="18" y="34" fill="#7B8799" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="500" text-anchor="middle">Graph</text>
+    </g>
+
+    <!-- Tab 5: Settings -->
+    <g transform="translate(348, 14)">
+      <circle cx="14" cy="15" r="5" stroke="#7B8799" stroke-width="1.8" fill="none"/>
+      <text x="14" y="34" fill="#7B8799" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="500" text-anchor="middle">Settings</text>
+    </g>
+  </g>
+
+  <!-- Home Bar -->
+  <rect x="142" y="838" width="136" height="4" rx="2" fill="#11183D" opacity="0.3"/>
+</svg>

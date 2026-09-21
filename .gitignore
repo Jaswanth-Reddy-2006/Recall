@@ -2,12 +2,52 @@
 
 # dependencies
 node_modules/
+package-lock.json.bak
 
 # Expo
 .expo/
 dist/
 web-build/
 expo-env.d.ts
+
+# Next.js
+.next/
+out/
+build/
+recall-web/.next/
+recall-web/out/
+recall-web/build/
+
+# Python & AI Server
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+ai-server/venv/
+ai-server/.venv/
+ai-server/__pycache__/
+*.db
+*.sqlite
+*.sqlite3
 
 # Native
 .kotlin/
@@ -31,7 +71,9 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
+*.env
 
 # typescript
 *.tsbuildinfo

@@ -1,0 +1,138 @@
+<svg width="420" height="860" viewBox="0 0 420 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Device Outer -->
+  <rect x="5" y="5" width="410" height="850" rx="44" fill="#11183D" stroke="#DCE7F2" stroke-width="4"/>
+  <rect x="12" y="12" width="396" height="836" rx="38" fill="#EFFAFD"/>
+
+  <!-- Notch -->
+  <rect x="145" y="20" width="130" height="26" rx="13" fill="#11183D"/>
+  
+  <!-- Status Bar -->
+  <text x="36" y="38" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="13" font-weight="700">9:41</text>
+  <rect x="364" y="28" width="20" height="10" rx="3" fill="none" stroke="#11183D" stroke-width="1.5"/>
+  <rect x="366" y="30" width="14" height="6" rx="1.5" fill="#4A8BDF"/>
+
+  <!-- Navigation Bar -->
+  <g transform="translate(28, 62)">
+    <circle cx="16" cy="16" r="16" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    <path d="M19 11L14 16L19 21" stroke="#11183D" stroke-width="2" stroke-linecap="round"/>
+
+    <text x="44" y="21" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="16" font-weight="800">Memory Intelligence</text>
+
+    <rect x="328" y="0" width="32" height="32" rx="16" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1"/>
+    <!-- Share icon -->
+    <circle cx="344" cy="12" r="2.5" fill="#4A8BDF"/>
+    <circle cx="339" cy="20" r="2.5" fill="#4A8BDF"/>
+    <circle cx="349" cy="20" r="2.5" fill="#4A8BDF"/>
+    <line x1="344" y1="12" x2="339" y2="20" stroke="#4A8BDF" stroke-width="1.2"/>
+    <line x1="344" y1="12" x2="349" y2="20" stroke="#4A8BDF" stroke-width="1.2"/>
+  </g>
+
+  <!-- AI Processing Status Chip -->
+  <g transform="translate(28, 108)">
+    <rect x="0" y="0" width="364" height="32" rx="8" fill="#EFF7FD" stroke="#4A8BDF" stroke-width="1"/>
+    <circle cx="16" cy="16" r="5" fill="#4A8BDF"/>
+    <text x="28" y="20" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="11" font-weight="700">Qwen2.5-VL 3B • Vision OCR Extracted • On-Device</text>
+  </g>
+
+  <!-- Screenshot Preview Banner Thumbnail -->
+  <g transform="translate(28, 150)">
+    <rect x="0" y="0" width="364" height="110" rx="14" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1.2"/>
+    
+    <!-- Mini Flyer Thumbnail -->
+    <rect x="12" y="12" width="70" height="86" rx="6" fill="#EFF7FD" stroke="#4A8BDF" stroke-width="1"/>
+    <rect x="12" y="12" width="70" height="20" fill="#4A8BDF"/>
+    <text x="47" y="26" fill="#FFFFFF" font-family="-apple-system, system-ui, sans-serif" font-size="7" font-weight="800" text-anchor="middle">TECHCORP</text>
+    <rect x="18" y="38" width="58" height="4" rx="2" fill="#DCE7F2"/>
+    <rect x="18" y="46" width="46" height="4" rx="2" fill="#DCE7F2"/>
+    <rect x="18" y="54" width="52" height="4" rx="2" fill="#DCE7F2"/>
+    <text x="47" y="76" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="8" font-weight="800" text-anchor="middle">₹18 LPA</text>
+
+    <!-- Meta Info -->
+    <text x="96" y="34" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="14" font-weight="800">TechCorp Campus Drive 2026</text>
+    <text x="96" y="52" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="11">Captured via Android Screenshot Share</text>
+    <text x="96" y="70" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="11">Tuesday, 22 Sep 2026 • 10:00 AM</text>
+    
+    <rect x="96" y="78" width="82" height="18" rx="4" fill="#EFFAFD"/>
+    <text x="137" y="90" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="9" font-weight="700" text-anchor="middle">High Confidence</text>
+  </g>
+
+  <!-- Understood Card -->
+  <g transform="translate(28, 272)">
+    <rect x="0" y="0" width="364" height="108" rx="14" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1.2"/>
+    <rect x="14" y="12" width="94" height="20" rx="10" fill="#EFFAFD"/>
+    <text x="61" y="26" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="800" text-anchor="middle">UNDERSTOOD</text>
+
+    <text x="14" y="52" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="13" font-weight="700">Official TechCorp On-Campus Hiring Drive</text>
+    <text x="14" y="72" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="11">Package ₹18 LPA for Associate Software Engineer roles.</text>
+    <text x="14" y="88" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="11">Eligibility requires 7.5+ CGPA with registration cutoff Sep 22 at 9 AM.</text>
+  </g>
+
+  <!-- Action Inbox Card -->
+  <g transform="translate(28, 392)">
+    <rect x="0" y="0" width="364" height="198" rx="14" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="1.5"/>
+    <rect x="14" y="12" width="138" height="22" rx="11" fill="#4A8BDF"/>
+    <text x="83" y="27" fill="#FFFFFF" font-family="-apple-system, system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">3 ACTIONS CREATED</text>
+
+    <!-- Action 1 -->
+    <g transform="translate(14, 46)">
+      <rect x="0" y="0" width="336" height="42" rx="8" fill="#EFFAFD" stroke="#DCE7F2" stroke-width="1"/>
+      <circle cx="20" cy="21" r="9" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="2"/>
+      <text x="38" y="20" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">Submit resume on placement portal</text>
+      <text x="38" y="34" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600">Sep 22, 09:00 AM • Deadline</text>
+    </g>
+
+    <!-- Action 2 -->
+    <g transform="translate(14, 94)">
+      <rect x="0" y="0" width="336" height="42" rx="8" fill="#EFF7FD" stroke="#DCE7F2" stroke-width="1"/>
+      <circle cx="20" cy="21" r="9" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="2"/>
+      <text x="38" y="20" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">Attend Pre-Placement Talk in Auditorium 3</text>
+      <text x="38" y="34" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="10">Sep 22, 10:00 AM • Mandatory</text>
+    </g>
+
+    <!-- Action 3 -->
+    <g transform="translate(14, 142)">
+      <rect x="0" y="0" width="336" height="42" rx="8" fill="#EFF7FD" stroke="#DCE7F2" stroke-width="1"/>
+      <circle cx="20" cy="21" r="9" fill="#FFFFFF" stroke="#4A8BDF" stroke-width="2"/>
+      <text x="38" y="20" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="12" font-weight="700">Print 2 hard copies of updated resume &amp; College ID</text>
+      <text x="38" y="34" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="10">Prep checklist</text>
+    </g>
+  </g>
+
+  <!-- Extracted Entities & Graph Connections -->
+  <g transform="translate(28, 602)">
+    <rect x="0" y="0" width="364" height="136" rx="14" fill="#FFFFFF" stroke="#DCE7F2" stroke-width="1.2"/>
+    <text x="14" y="26" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="13" font-weight="800">Connected Knowledge Graph</text>
+
+    <!-- Entity Badges -->
+    <g transform="translate(14, 38)">
+      <rect x="0" y="0" width="86" height="24" rx="6" fill="#EFFAFD" stroke="#DCE7F2" stroke-width="1"/>
+      <text x="43" y="16" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">TechCorp</text>
+
+      <rect x="94" y="0" width="98" height="24" rx="6" fill="#EFFAFD" stroke="#DCE7F2" stroke-width="1"/>
+      <text x="143" y="16" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">Auditorium 3</text>
+
+      <rect x="200" y="0" width="76" height="24" rx="6" fill="#EFFAFD" stroke="#DCE7F2" stroke-width="1"/>
+      <text x="238" y="16" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">₹18 LPA</text>
+
+      <rect x="284" y="0" width="50" height="24" rx="6" fill="#EFFAFD" stroke="#DCE7F2" stroke-width="1"/>
+      <text x="309" y="16" fill="#11183D" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="600" text-anchor="middle">7.5 GPA</text>
+    </g>
+
+    <!-- Connected Related Memories -->
+    <text x="14" y="82" fill="#526078" font-family="-apple-system, system-ui, sans-serif" font-size="11" font-weight="600">Related Memories in Recall:</text>
+
+    <g transform="translate(14, 94)">
+      <rect x="0" y="0" width="162" height="30" rx="6" fill="#EFF7FD"/>
+      <text x="10" y="19" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="700">DBMS Assignment 3</text>
+
+      <rect x="172" y="0" width="162" height="30" rx="6" fill="#EFF7FD"/>
+      <text x="182" y="19" fill="#2459A8" font-family="-apple-system, system-ui, sans-serif" font-size="10" font-weight="700">Resume Final Draft v4</text>
+    </g>
+  </g>
+
+  <!-- Bottom CTA bar -->
+  <g transform="translate(28, 752)">
+    <rect x="0" y="0" width="364" height="46" rx="12" fill="#4A8BDF"/>
+    <text x="182" y="28" fill="#FFFFFF" font-family="-apple-system, system-ui, sans-serif" font-size="13" font-weight="800" text-anchor="middle">Sync to Native Calendar</text>
+  </g>
+</svg>
